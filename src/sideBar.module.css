@@ -1,0 +1,6 @@
+.sideBar {
+  height: 100vh;
+  background-color: red;
+  width: 250px;
+  min-width: 250px;
+}
