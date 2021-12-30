@@ -12,7 +12,13 @@ const SideBar = () => {
         </div>
         <input type='button' value='Book Now' />
       </div>
-      <div className={styles.bottom}></div>
+      <div className={styles.bottom}>
+        <span>
+          <i class='fab fa-instagram fa-2x'></i>
+        </span>
+        <i class='fab fa-facebook-square fa-2x'></i>
+        <div>Carolyn Escandon</div>
+      </div>
     </div>
   );
 };
