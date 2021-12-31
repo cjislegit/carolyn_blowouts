@@ -3,4 +3,18 @@
   background-color: var(--background-color);
   display: flex;
   flex-grow: 1;
+  padding: 10px 10px;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+
+.img {
+  min-width: 105px;
+  min-height: 105px;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
