@@ -1,6 +1,6 @@
 .gallery {
   height: 100vh;
-  background-color: blue;
+  background-color: var(--background-color);
   display: flex;
   flex-grow: 1;
 }
