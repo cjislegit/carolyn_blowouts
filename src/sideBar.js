@@ -10,7 +10,9 @@ const SideBar = () => {
           velit suspendisse sed faucibus quis viverra. Ac risus dictum pulvinar
           pulvinar ut.
         </div>
-        <input type='button' value='Book Now' />
+        <form action='https://www.fresha.com/a/super-brite-orange-1108-east-katella-avenue-q44vwh8l/booking?menu=true'>
+          <input type='submit' value='Book Now' />
+        </form>
       </div>
       <div className={styles.bottom}>
         <span>

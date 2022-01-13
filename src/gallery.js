@@ -22,13 +22,27 @@ const Gallery = () => {
       <div className={styles.img}>
         <img src={img3} alt='' />
       </div>
-      <div className={styles.img}></div>
-      <div className={styles.img}></div>
-      <div className={styles.img}></div>
-      <div className={styles.img}></div>
-      <div className={styles.img}></div>
-      <div className={styles.img}></div>
-      <div className={styles.img}></div>
+      <div className={styles.img}>
+        <img src={img4} alt='' />
+      </div>
+      <div className={styles.img}>
+        <img src={img5} alt='' />
+      </div>
+      <div className={styles.img}>
+        <img src={img6} alt='' />
+      </div>
+      <div className={styles.img}>
+        <img src={img7} alt='' />
+      </div>
+      <div className={styles.img}>
+        <img src={img8} alt='' />
+      </div>
+      <div className={styles.img}>
+        <img src={img9} alt='' />
+      </div>
+      <div className={styles.img}>
+        <img src={img10} alt='' />
+      </div>
     </div>
   );
 };
