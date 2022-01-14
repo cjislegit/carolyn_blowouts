@@ -13,36 +13,16 @@ import img10 from './assets/IMG_4670.jpeg';
 const Gallery = () => {
   return (
     <div className={styles.gallery}>
-      <div className={styles.img}>
-        <img src={img1} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img2} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img3} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img4} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img5} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img6} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img7} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img8} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img9} alt='' />
-      </div>
-      <div className={styles.img}>
-        <img src={img10} alt='' />
-      </div>
+      <img src={img1} alt='' />
+      <img src={img2} alt='' />
+      <img src={img3} alt='' />
+      <img src={img4} alt='' />
+      <img src={img5} alt='' />
+      <img src={img6} alt='' />
+      <img src={img7} alt='' />
+      <img src={img8} alt='' />
+      <img src={img9} alt='' />
+      <img src={img10} alt='' />
     </div>
   );
 };
