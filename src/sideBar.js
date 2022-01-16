@@ -16,9 +16,10 @@ const SideBar = () => {
       </div>
       <div className={styles.bottom}>
         <span>
-          <i class='fab fa-instagram fa-2x'></i>
+          <a href='https://www.instagram.com/super.brite/'>
+            <i class='fab fa-instagram fa-2x'></i>
+          </a>
         </span>
-        <i class='fab fa-facebook-square fa-2x'></i>
         <div>Carolyn Escandon</div>
       </div>
     </div>
