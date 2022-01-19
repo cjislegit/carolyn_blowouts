@@ -9,6 +9,20 @@ import img7 from './assets/IMG_4667.jpeg';
 import img8 from './assets/IMG_4668.jpeg';
 import img9 from './assets/IMG_4669.jpeg';
 import img10 from './assets/IMG_4670.jpeg';
+import img11 from './assets/IMG_4671.jpeg';
+import img12 from './assets/IMG_4672.jpeg';
+import img13 from './assets/IMG_4673.jpeg';
+import img14 from './assets/IMG_4674.jpeg';
+import img15 from './assets/IMG_4675.jpeg';
+import img16 from './assets/IMG_4676.jpeg';
+import img17 from './assets/IMG_4677.jpeg';
+import img18 from './assets/IMG_4678.jpeg';
+import img19 from './assets/IMG_4681.jpeg';
+import img20 from './assets/IMG_4682.jpeg';
+import img21 from './assets/IMG_4684.jpeg';
+import img22 from './assets/IMG-4798.JPG';
+import img23 from './assets/IMG-4861.JPG';
+import img24 from './assets/IMG-4781.jpg';
 
 const Gallery = () => {
   return (
@@ -26,6 +40,20 @@ const Gallery = () => {
       <img src={img8} alt='Beachy waves with side braid' />
       <img src={img9} alt='' />
       <img src={img10} alt='Soft casual blowout' />
+      <img src={img11} alt='Modern Hollywood waves' />
+      <img src={img12} alt='Hollywood waves with texture' />
+      <img src={img13} alt='Hollywood waves' />
+      <img src={img14} alt='Statement braid hairstyle' />
+      <img src={img15} alt='Volume blowout pin set' />
+      <img src={img16} alt='Beachy style blowout' />
+      <img src={img17} alt='Mini braid half-up style' />
+      <img src={img18} alt='Soft curls blowout' />
+      <img src={img19} alt='Braidal updo with headband' />
+      <img src={img20} alt='Low bun bridal updo' />
+      <img src={img21} alt='Braiden hairstyle' />
+      <img src={img22} alt='Platinum blonde baby lights' />
+      <img src={img23} alt='Low bun with a braid updo' />
+      <img src={img24} alt='' />
     </div>
   );
 };
