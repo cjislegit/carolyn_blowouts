@@ -16,7 +16,7 @@ const Gallery = () => {
       <img src={img1} alt='' />
       <img src={img2} alt='' />
       <img src={img3} alt='' />
-      <img src={img4} alt='' />
+      <img src={img4} alt='Silk Press on 3a hair with curls' />
       <img src={img5} alt='' />
       <img src={img6} alt='' />
       <img src={img7} alt='' />
