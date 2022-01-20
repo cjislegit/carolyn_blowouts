@@ -4,11 +4,15 @@ const SideBar = () => {
   return (
     <div className={styles.sideBar}>
       <div className={styles.top}>
-        <h1>Haircuts and Stuff</h1>
+        <h1>Hair and Makeup in Orange County</h1>
         <div>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu elementum,
-          velit suspendisse sed faucibus quis viverra. Ac risus dictum pulvinar
-          pulvinar ut.
+          Hello! My name is Carolyn and welcome to Super Brite! I have been
+          lovingly doing hair and make-up since 2018 and have over 8 years of
+          exceptional customer service experience. I chose the name Super Brite
+          to encapsulate the energy and happiness I have in my passion for
+          beauty. I service all ages and genders and have a variety of skills. I
+          strive for more education on a regular basis to keep on trend and keep
+          my loyal clients in the know with what is best for their service.
         </div>
         <form action='https://www.fresha.com/a/super-brite-orange-1108-east-katella-avenue-q44vwh8l/booking?menu=true'>
           <input type='submit' value='Book Now' />
