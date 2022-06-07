@@ -20,7 +20,10 @@ const SideBar = () => {
       </div>
       <div className={styles.bottom}>
         <span>
-          <a href='https://www.instagram.com/super.brite/'>
+          <a
+            aria-label='Insagram link'
+            href='https://www.instagram.com/super.brite/'
+          >
             <i class='fab fa-instagram fa-2x'></i>
           </a>
         </span>
